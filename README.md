@@ -18,8 +18,7 @@ This project is part of the Holberton School Web Development curriculum. The goa
    - [FAQ](#6-faq)
    - [Footer](#7-footer)
 5. [Resources](#resources)
-6. [Usage](#usage)
-7. [Author](#author)
+
 
 ---
 
